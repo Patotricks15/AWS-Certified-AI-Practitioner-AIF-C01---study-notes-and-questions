@@ -1,0 +1,1 @@
+# AWS-Certified-AI-Practitioner-AIF-C01---study-notes-and-questions
